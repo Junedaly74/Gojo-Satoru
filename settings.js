@@ -25,16 +25,16 @@ global.ownernomer = '+92 322 8182188'
 global.ownername = '🐦Juned Àly
 global.botname = 'Junned Àly'
 global.footer = 'Juned Àly'
-global.ig = 'https://instagram.com/juned_aly_74?igshid=YmMyMTA2M2Y='
+global.ig = 'https://instagram.com/juned_aly_74'
 global.region = 'pakistan'
-global.sc = '
-global.myweb = 
+global.sc = 'Juned aly'
+global.myweb = 'juned aly'
 global.packname = 'juned Àly'
 global.author = '🐦Juned Àly'
 global.sessionName = 'juned Àly
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
-global.mess = {
+global.mess = {juned Aly }
     success: 'Done ✓',
     admin: 'This Feature Is Only For Admin!',
     botAdmin: 'Bot Must Be Admin First!',
