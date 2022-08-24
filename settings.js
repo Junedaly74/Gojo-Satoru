@@ -19,9 +19,9 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['+92 322 8182188']
-global.premium = ['+92 322 8182188']
-global.ownernomer = '+92 322 8182188'
+global.owner = ['923228182188']
+global.premium = ['923228182188']
+global.ownernomer = '923228182188'
 global.ownername = '🐦Juned Àly
 global.botname = 'Junned Àly'
 global.footer = 'Juned Àly'
